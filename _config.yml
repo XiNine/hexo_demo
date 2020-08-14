@@ -104,5 +104,5 @@ theme: yearn
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/XiNine/xinine.github.io.git
+  repo: https://github.com/XiNine/XiNine.github.io.git
   branch: master
